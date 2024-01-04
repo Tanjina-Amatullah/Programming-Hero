@@ -1,0 +1,30 @@
+<h4>exploring list item</h3>
+    <li>polaw</li>
+    <li>biriyani</li>
+    <li>chips</li> 
+    <li>borhani</li>
+
+    <ul>
+        <li>shirt</li>
+        <li>pant</li>
+        <li>coat</li>
+    </ul>
+    order list
+    <ol>
+        <li>sakib</li>
+        <li>tamim</li>
+    </ol>
+
+    <div>
+        <h2>grocery list</h2>
+            <ul>
+                <li>mango</li>
+                <li>apple</li>
+            </ul>
+            <li>sugar</li>
+            <li>milk</li>
+        </ul>
+
+        
+    </div>
+    <button>click me mama</button>
