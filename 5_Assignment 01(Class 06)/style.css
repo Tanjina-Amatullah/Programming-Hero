@@ -1,0 +1,18 @@
+
+body{
+    margin: 30px;
+}
+.banner{
+    background-image: url(Banner\ Image.png);
+    color: aliceblue;
+    background-repeat: no-repeat;
+    text-align:center;
+    border: #fff; 
+} 
+.section2{
+    font-size:larger ;
+    color: #f00;
+    text-align: center;
+    font-size: 88px;
+    display: flex;
+}
